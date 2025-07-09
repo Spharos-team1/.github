@@ -16,7 +16,7 @@
 [찰낙찰낙](https://www.cabbage-secondhand.shop/)
 
 ### 🐠 기획 배경
-**‘찰낙찰낙’**은 중고 거래의 새로운 방식을 제시합니다. 기존의 단순 거래를 넘어, 중고 물건을 경매 방식으로 거래할 수 있는 플랫폼이 필요하다는 인식에서 출발했습니다. 희귀하거나 인기 있는 물건의 가치를 적절히 반영하고, 판매자와 구매자 모두에게 더 나은 거래 경험을 제공하기 위해 기획되었습니다. 이제 중고 거래도 긴장감 있고 재미있게, ‘찰낙찰낙’에서 시작해보세요.
+‘찰낙찰낙’은 중고 거래의 새로운 방식을 제시합니다. 기존의 단순 거래를 넘어, 중고 물건을 경매 방식으로 거래할 수 있는 플랫폼이 필요하다는 인식에서 출발했습니다. 희귀하거나 인기 있는 물건의 가치를 적절히 반영하고, 판매자와 구매자 모두에게 더 나은 거래 경험을 제공하기 위해 기획되었습니다. 이제 중고 거래도 긴장감 있고 재미있게, ‘찰낙찰낙’에서 시작해보세요.
 
 ### 🐡 프로젝트 목표
 
@@ -43,8 +43,26 @@
 
 - **FE**
 
-
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/@dnd--kit-000000?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white"> <img src="https://img.shields.io/badge/Zod-3C3C3C?style=for-the-badge&logo=zod&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white">
 
 - **INFRA**
 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"> <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Helm-277A9F?style=for-the-badge&logo=helm&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white"> <img src="https://img.shields.io/badge/Kong-002659?style=for-the-badge&logo=kong&logoColor=white"> <img src="https://img.shields.io/badge/Debezium-000000?style=for-the-badge&logo=apachekafka&logoColor=white">
 
+- **etc**
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+
+### 🐙 **서버 구성 및 데이터베이스**
+
+- 아키텍처 구조도
+
+<img alt="아키텍처 구조도" src="https://github.com/user-attachments/assets/5952e691-ecf6-451f-a2e5-dd42b0de7a7f">
+
+- CI/CD
+
+<img alt="CICD" src="https://github.com/user-attachments/assets/543a8c5f-9c02-4db6-a924-1612408adf06">
+
+- 이벤트 스토밍, ERD
+
+| ![이벤트 스토밍](https://github.com/user-attachments/assets/8c57322d-e87d-4f80-b022-3634aeb4a53d) | ![ERD](https://github.com/user-attachments/assets/4bfeac59-cb79-4a63-94f5-b8df6c4d7033) |
