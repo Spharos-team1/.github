@@ -66,3 +66,5 @@
 - 이벤트 스토밍, ERD
 
 | ![이벤트 스토밍](https://github.com/user-attachments/assets/8c57322d-e87d-4f80-b022-3634aeb4a53d) | ![ERD](https://github.com/user-attachments/assets/4bfeac59-cb79-4a63-94f5-b8df6c4d7033) |
+|:---------------------------:|:----------------------------------:|
+| 이벤트 스토밍 | ERD |
