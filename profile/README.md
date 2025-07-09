@@ -74,9 +74,7 @@
 |![Image](https://github.com/user-attachments/assets/a51a141c-e2e1-419c-9ed0-d1d67d9ef9fe) | ![Image](https://github.com/user-attachments/assets/5a857724-ae41-440f-9169-5677c81bbd5c) | ![Image](https://github.com/user-attachments/assets/04a1f1ba-7987-4518-87fa-82ee9472348f) |
 |:--------------------------------:|:----------------------------------:|:----------------------------------:|
 | 1. | 2. | 3. |
-|:--------------------------------:|:----------------------------------:|:----------------------------------:|
 | ![Image](https://github.com/user-attachments/assets/29d3067c-471f-476d-991c-00735716689a) | ![Image](https://github.com/user-attachments/assets/5324626c-9021-4d47-abac-973027f9f822) | ![Image](https://github.com/user-attachments/assets/48b60072-4e24-479e-a0b0-31dceb7ad9dc)
-|:--------------------------------:|:----------------------------------:|:----------------------------------:|
 | 4. | 5. | 6. |
 
 ### 🦐 기능 소개
