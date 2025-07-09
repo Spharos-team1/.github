@@ -57,11 +57,11 @@
 
 - 아키텍처 구조도
 
-<img alt="아키텍처 구조도" src="https://github.com/user-attachments/assets/5952e691-ecf6-451f-a2e5-dd42b0de7a7f">
+<img alt="아키텍처 구조도" src="https://github.com/user-attachments/assets/cca034b9-3596-4739-a9dc-57de3c8a0fc4">
 
 - CI/CD
 
-<img alt="CICD" src="https://github.com/user-attachments/assets/543a8c5f-9c02-4db6-a924-1612408adf06">
+<img alt="CICD" src="https://github.com/user-attachments/assets/099067f2-3c46-4be9-b814-d57091518c11">
 
 - 이벤트 스토밍, ERD
 
