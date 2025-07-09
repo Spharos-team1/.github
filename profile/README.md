@@ -71,24 +71,21 @@
 
 ## 4. 기능소개
 
-|![Image](https://github.com/user-attachments/assets/a51a141c-e2e1-419c-9ed0-d1d67d9ef9fe) | ![Image](https://github.com/user-attachments/assets/5a857724-ae41-440f-9169-5677c81bbd5c) | ![Image](https://github.com/user-attachments/assets/04a1f1ba-7987-4518-87fa-82ee9472348f) |
-|:--------------------------------:|:----------------------------------:|:----------------------------------:|
-| 1. | 2. | 3. |
-| ![Image](https://github.com/user-attachments/assets/29d3067c-471f-476d-991c-00735716689a) | ![Image](https://github.com/user-attachments/assets/5324626c-9021-4d47-abac-973027f9f822) | ![Image](https://github.com/user-attachments/assets/48b60072-4e24-479e-a0b0-31dceb7ad9dc)
-| 4. | 5. | 6. |
-
 ### 🦐 기능 소개
 
-1. 회원가입/로그인 : 회원가입/로그인, JWT 발급, 아이디 찾기, 비밀번호 재설정, 휴대폰인증(coolSMS 사용) 기능
-2. 좋아요 : 상품에 대한 좋아요를 추가/취소할 수 있습니다.
-2. 굿즈 경매 기능: 판매자가 자신의 굿즈를 경매에 등록할 수 있습니다.
-3. 입찰-낙찰 시스템: 구매자는 원하는 가격에 입찰할 수 있으며, 최고가 입찰자가 낙찰됩니다.
-4. 커뮤니티 기능: 판매자와 구매자 간 채팅을 통해 거래를 진행할 수 있으며, 매너덕을 통해 상대방의 에티켓 지수를 확인할 수 있습니다.
-5. Push 알림 기능: 사용자에게 적절한 시기에 알림을 제공하여 편의성을 높입니다.
+1. 회원가입 및 로그인: 사용자 인증을 위해 JWT 기반 로그인/회원가입을 지원하며, 휴대폰 본인 인증(CoolSMS 사용), 아이디 찾기, 비밀번호 재설정 등의 기능도 제공합니다.
+2. 굿즈 경매 등록 기능: 판매자는 자신이 보유한 굿즈를 경매에 등록할 수 있으며, 시작가, 종료 시각 등의 정보를 직접 설정하여 경매를 개설할 수 있습니다.
+3. 입찰 및 낙찰 시스템: 구매자는 원하는 굿즈에 대해 실시간으로 입찰할 수 있으며, 마감 시점에 최고가 입찰자에게 자동 낙찰됩니다. 입찰 히스토리도 실시간으로 반영됩니다.
+4. 실시간 채팅 기능: 거래에 참여한 구매자와 판매자는 WebSocket 기반 채팅을 통해 실시간으로 소통할 수 있으며, 거래 진행 상황에 맞춘 커뮤니케이션이 가능합니다.
+5. 알림 기능: 입찰, 낙찰, 채팅 메시지 등 주요 이벤트에 대해 실시간 알림(SSE 기반)을 제공하여 사용자 편의성을 높이고, 놓치는 일이 없도록 도와줍니다.
 
 ### 🦀 화면별 기능 소개
 
-
+|![Image](https://github.com/user-attachments/assets/a51a141c-e2e1-419c-9ed0-d1d67d9ef9fe) | ![Image](https://github.com/user-attachments/assets/5a857724-ae41-440f-9169-5677c81bbd5c) | ![Image](https://github.com/user-attachments/assets/04a1f1ba-7987-4518-87fa-82ee9472348f) |
+|:--------------------------------:|:----------------------------------:|:----------------------------------:|
+| 상품 등록 | 경매 목록 | 입찰하기 |
+| ![Image](https://github.com/user-attachments/assets/29d3067c-471f-476d-991c-00735716689a) | ![Image](https://github.com/user-attachments/assets/5324626c-9021-4d47-abac-973027f9f822) | ![Image](https://github.com/user-attachments/assets/48b60072-4e24-479e-a0b0-31dceb7ad9dc)
+| 사용자 친화 UX | 채팅 읽음처리 | 채팅방 목록 |
 
 ## 개발 후기
 
